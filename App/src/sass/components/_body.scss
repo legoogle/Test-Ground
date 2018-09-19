@@ -1,9 +1,11 @@
-$primary: blue;
+//$primary: red;
 $white: #fff;
+$black: #000;
 
 
 body {
-    background: $primary;
-    color: $white;
+    background: $white;
+    color: $black;
     text-align: center;
+    padding: 50px;
 }
